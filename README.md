@@ -2,6 +2,14 @@
 <h3 align="center"> Android App Developer👨‍💻</h3>
 
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
+
+- 🌱 I’m currently learning **Kotlin & Java**
+
+- 💬 Ask me about **Android , Programming**
+
+- 📫 How to reach me **maksumulemon@gmail.com**
+
+- 👾 Fun fact: I use tabs over spaces.
 <!--
 **emonappdev/emonappdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
