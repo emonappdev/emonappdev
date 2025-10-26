@@ -2,8 +2,11 @@
 <h3 align="center"> Android App Developer👨‍💻</h3>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=emonappdev.emonappdev&left_color=tomato&right_color=yellow&left_text=Profile%20Visitors"  />
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
+<!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> -->
+
+
+<img align="right" alt="Workspace" width="400" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd">
 
 - 🌱 I’m currently learning **Kotlin & Java**
 
